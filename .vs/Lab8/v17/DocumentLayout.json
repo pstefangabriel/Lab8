@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefan\\source\\repos\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\RetMed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\medserv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\medrepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Medicament.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\export.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\RetMed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Report.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Report.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\medserv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\medrepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Medicament.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\export.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Lab8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A918DD72-FAF7-40BB-A43C-15743A37563D}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\Lab8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Report.h",
+              "RelativeDocumentMoniker": "Lab8\\Report.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Report.h",
+              "RelativeToolTip": "Lab8\\Report.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T08:44:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RetMed.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.h",
+              "RelativeDocumentMoniker": "Lab8\\RetMed.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.h",
+              "RelativeToolTip": "Lab8\\RetMed.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T09:40:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validator.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.h",
+              "RelativeDocumentMoniker": "Lab8\\Validator.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.h",
+              "RelativeToolTip": "Lab8\\Validator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T06:38:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "console.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.cpp",
+              "RelativeDocumentMoniker": "Lab8\\console.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.cpp",
+              "RelativeToolTip": "Lab8\\console.cpp",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAYwAYBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:35:16.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "export.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.cpp",
+              "RelativeDocumentMoniker": "Lab8\\export.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.cpp",
+              "RelativeToolTip": "Lab8\\export.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T07:12:39.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicament.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.cpp",
+              "RelativeDocumentMoniker": "Lab8\\Medicament.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.cpp",
+              "RelativeToolTip": "Lab8\\Medicament.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:35:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medrepo.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.cpp",
+              "RelativeDocumentMoniker": "Lab8\\medrepo.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.cpp",
+              "RelativeToolTip": "Lab8\\medrepo.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwHcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:36:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "medserv.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.cpp",
+              "RelativeDocumentMoniker": "Lab8\\medserv.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.cpp",
+              "RelativeToolTip": "Lab8\\medserv.cpp",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAYwCUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:36:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetMed.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.cpp",
+              "RelativeDocumentMoniker": "Lab8\\RetMed.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\RetMed.cpp",
+              "RelativeToolTip": "Lab8\\RetMed.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T09:50:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validator.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.cpp",
+              "RelativeDocumentMoniker": "Lab8\\Validator.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Validator.cpp",
+              "RelativeToolTip": "Lab8\\Validator.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:39:06.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "medserv.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.h",
+              "RelativeDocumentMoniker": "Lab8\\medserv.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medserv.h",
+              "RelativeToolTip": "Lab8\\medserv.h",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwFoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T06:34:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "medrepo.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.h",
+              "RelativeDocumentMoniker": "Lab8\\medrepo.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\medrepo.h",
+              "RelativeToolTip": "Lab8\\medrepo.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T06:34:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Medicament.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.h",
+              "RelativeDocumentMoniker": "Lab8\\Medicament.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Medicament.h",
+              "RelativeToolTip": "Lab8\\Medicament.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwHEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T06:33:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "export.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.h",
+              "RelativeDocumentMoniker": "Lab8\\export.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\export.h",
+              "RelativeToolTip": "Lab8\\export.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T07:10:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "console.h",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.h",
+              "RelativeDocumentMoniker": "Lab8\\console.h",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\console.h",
+              "RelativeToolTip": "Lab8\\console.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T06:33:13.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lab8.cpp",
+              "DocumentMoniker": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Lab8.cpp",
+              "RelativeDocumentMoniker": "Lab8\\Lab8.cpp",
+              "ToolTip": "C:\\Users\\stefan\\source\\repos\\Lab8\\Lab8\\Lab8.cpp",
+              "RelativeToolTip": "Lab8\\Lab8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T06:32:36.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
